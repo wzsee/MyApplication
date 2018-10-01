@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!--这是我的string-->
+    <string name="fragment_chat">这是chatFragment</string>
+    <string name="item_book">书籍</string>
+    <string name="item_shop">商店</string>
+</resources>

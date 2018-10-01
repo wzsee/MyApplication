@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="magic_nav">
+        <item>聊天</item>
+        <item>通讯</item>
+        <item>发现</item>
+    </string-array>
+</resources>
